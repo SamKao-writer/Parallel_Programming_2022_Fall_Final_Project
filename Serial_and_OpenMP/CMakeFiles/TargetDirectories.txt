@@ -1,0 +1,3 @@
+/home/zailair/Desktop/PP_HW/Serial_and_OpenMP/CMakeFiles/rebuild_cache.dir
+/home/zailair/Desktop/PP_HW/Serial_and_OpenMP/CMakeFiles/edit_cache.dir
+/home/zailair/Desktop/PP_HW/Serial_and_OpenMP/CMakeFiles/DisplayImage.dir
